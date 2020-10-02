@@ -9,4 +9,4 @@ Außerdem behältst du den Überblick wo und was deine Freunde gerade trinken. D
 
 ### Support or Contact
 
-Hast du Probleme mit Drink Mates? Kontakiere mich via [johannes.eder@drink-mates.com] (johannes.eder@drink-mates.com).
+Hast du Probleme mit Drink Mates? Kontakiere mich via [email]: (johannes.eder@drink-mates.com).
