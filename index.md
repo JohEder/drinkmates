@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to the Drink Mates Support Page
 
-You can use the [editor on GitHub](https://github.com/JohEder/drinkmates/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Was ist Drink Mates?
+Bei Drink Mates geht es darum entspannte Leute zu finden, die gerade auch Lust auf ein Bier oder ein sonstiges Getränk haben. 
+Das können Freunde sein oder Leute, die gerade zufällig in der Nähe sind. Du kannst Drink Anfragen versenden und wenn sie angenommen werden, wird der Standort geteilt und ein Chat gestartet.
+Außerdem behältst du den Überblick wo und was deine Freunde gerade trinken. Du kannst ihnen zuprosten oder ihnen mitteilen, dass sie nicht zu viel saufen sollen.
 
 ### Markdown
 
